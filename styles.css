@@ -21,8 +21,8 @@ button {
   outline: none;
 }
 
-button:hover {
-  background: #e2e2e2;
+#buttons button:hover {
+  background-color: #ffcfb4;
 }
 
 #cal {
@@ -110,6 +110,7 @@ button:hover {
 
 #equal {
   grid-area: 4 / 2 / 5 / 4;
+  background-color: #fff56c;
 }
 
 #sum {
