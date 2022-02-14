@@ -100,7 +100,7 @@ button {
   grid-area: 3 / 3 / 4 / 4;
 }
 
-#subtract {
+#minus {
   grid-area: 3 / 4 / 4 / 5;
 }
 
@@ -113,6 +113,6 @@ button {
   background-color: #fff56c;
 }
 
-#sum {
+#plus {
   grid-area: 4 / 4 / 5 / 5;
 }
