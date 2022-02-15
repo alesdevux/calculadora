@@ -49,7 +49,7 @@ for (let i = 0; i < operators.length; i++) {
       } else if (operator === 'multiply') {
         pantalla.innerHTML = num1 * num2;
       } else if (operator === 'divide') {
-        pantalla.innerHTML = num1 / num2;
+        pantalla.innerHTML = parseInt(num1 / num2);
       }
 
       num1 = parseInt(pantalla.innerHTML);
